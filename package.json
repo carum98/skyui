@@ -1,0 +1,9 @@
+{
+  "name": "skyui",
+  "description": "UI components Vue 3 - Nuxt",
+  "workspaces": [
+	"packages/*"
+  ],
+  "scripts": {
+  }
+}
